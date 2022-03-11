@@ -1,4 +1,4 @@
-# _Dio_DinoGame# Projeto Dio: Recriando o jogo do dinossauro sem internet
+# Projeto Dio: Recriando o jogo do dinossauro sem internet
 ### Sobre
 Projeto foi criado a partir da aula "Recriando o famoso jogo do dinossauro sem internet", do DioLabs, na [Digital Innovation One](https://digitalinnovation.one/ "Digital Innovation One")
 
